@@ -1,0 +1,93 @@
+Font Awesome:
+https://fortawesome.github.io/Font-Awesome/get-started/
+
+Bootstrap:
+http://getbootstrap.com/getting-started/
+
+GLYPHICONS:
+http://glyphicons.com/
+http://www.w3schools.com/bootstrap/bootstrap_ref_comp_glyphs.asp
+
+Free Hosting Tutorial:
+http://www.tomshardware.co.uk/faq/id-1949637/web-domain-unlimited-web-hosting-free.html
+
+Favicon:
+http://findicons.com/icon/445300/cv?id=445300
+
+Template (Mobil):
+http://elemisfreebies.com/07/05/free-html-resume-template/
+
+Template 2:
+http://tympanus.net/codrops/2014/07/14/freebie-halcyon-days-one-page-website-template/
+
+Template 3:
+http://elemisfreebies.com/04/14/delphic-free-html-template/
+
+Template 4:
+http://tympanus.net/codrops/2015/10/21/page-stack-navigation/
+
+Template 5 (Web):
+http://www.deviantart.com/art/Free-Download-HTML-CSS-Jquery-Ver-Prejon-CV-423052375
+
+Background:
+http://www.designbolts.com/wp-content/uploads/2013/02/Rose-Grey-Seamless-Patterns-For-Website-Background.jpg
+
+Wallpaper:
+http://kukulatransport.com/wp-content/uploads/2015/10/you_tube_chanel.jpg
+
+Banner:
+http://bsr14.org/images/icons/bsr-name-badge-icon.png
+
+Loading:
+http://v2.preloaders.net/preloaders/496/Flip%20Flop.gif
+
+Home:
+http://findicons.com/icon/126363/home
+
+Mail:
+http://findicons.com/icon/2968/letter?id=365402
+
+Mobile:
+http://findicons.com/icon/211553/mobile?id=211675
+
+Homepage:
+http://findicons.com/icon/67104/gnome_web_browser?id=67691
+
+PDF:
+http://findicons.com/icon/83357/pdf?id=83370
+
+EN:
+http://findicons.com/icon/32379/united_kingdom_great_britain?id=302978
+
+Twitter:
+http://findicons.com/icon/221970/twitter_square_happy?id=398291
+
+Facebook:
+https://www.iconfinder.com/icons/317727/facebook_social_social_media_icon#size=24
+
+Admin:
+https://www.iconfinder.com/icons/67976/computer_icon#size=256
+
+Tech:
+https://www.iconfinder.com/icons/17814/preferences_settings_tools_icon#size=256
+
+Check 1:
+https://www.iconfinder.com/icons/3807/action_agt_check_success_icon#size=16
+
+Check 2:
+https://www.iconfinder.com/icons/28239/8_check_em_icon#size=8
+
+Buton 1:
+http://codepen.io/cheeriottis/pen/inluv
+
+Buton 2:
+http://cssdeck.com/labs/purely-css
+
+Buton 3:
+http://codepen.io/Gingernaut/pen/qOgMLy
+
+404:
+http://codepen.io/saransh/pen/aezht
+
+Error Icon:
+http://findicons.com/icon/2958/warning?id=2958
